@@ -7,14 +7,10 @@
 
 <main>
 
-    <img src="../image/@1.png" alt="">
+    <img src="../image/jds.png" alt="">
     <div class="wrapper">
-        <img src="../image/collection1.png" alt="">
-        <img src="../image/collection2.png" alt="">
-        <img src="../image/collection3.png" alt="">
+
     </div>
-    <img src="../image/@3.png" class="three" alt="">
-    <img src="../image/@4.png" class="four" alt="">
 
 
 </main>
