@@ -71,7 +71,7 @@
 <style>
 
 
-#C_top .l-overlay {background-image: url("../image/001.jpg");}
+#C_top .l-overlay {background-image: url("/image/001.jpg");}
 #C_top .wrapper {
   align-items: flex-end;
   height: 100vh;

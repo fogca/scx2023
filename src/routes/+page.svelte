@@ -317,7 +317,7 @@
 }
 #new h3 {margin: .5rem 0 3rem;}
 
-#partnership .l-overlay {background-image: url("../image/001.jpg");}
+#partnership .l-overlay {background-image: url("/image/001.jpg");}
 #partnership h1 {
     width: 90%;
     margin: 1.5rem auto .5rem;
