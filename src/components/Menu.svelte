@@ -62,7 +62,7 @@
         width: 100%;
         height: 50vw;
         margin-left: 0;
-        background-image: url("../image/menu.jpg");
+        background-image: url("/image/menu.jpg");
         justify-content: left;
         align-items: center;
         margin-bottom: 1.5rem;
