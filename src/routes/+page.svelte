@@ -12,7 +12,7 @@
         <div class="wrapper w100">
             <div class="container">
                 <img src="../image/001.jpg" alt="">
-                <a href="/product" class="l-button h4">詳しくみる</a>
+                <a href="/product" class="l-button h5">詳しくみる</a>
             </div>
 
             <div class="pagination">
@@ -58,15 +58,29 @@
 
     <section id="new">
         <h1 lang="en" class="head1 center">New Release</h1>
-        <div class="wrapper center">
+        <a href="/product" class="wrapper center">
             <div class="container">
                 <div lang="en">New limited American oak Single cask 2000 Nikkei Ebisu distillery</div>
                 <img src="../image/001.jpg" alt="">
             </div>
             <h2 lang="en" class="h2">Pre-order on 5th December</h2>
             <h3 class="h4">12月15日より予約購入開始</h3>
-            <a lang="en" href="/product" class="h6 link">Discover more</a>
-        </div>
+            <span lang="en" class="h6 link">Discover more</span>
+        </a>
+
+        <div class="line center">
+            <h1 class="h3">予想を上回る人気につき</h1>
+            <p class="center">
+              現在ジャパニーズダークスピリッツとして<br>
+              販売する限定商品は大変好評を頂いており、<br>
+              販売開始後、数分で完売する状況が続いております。<br>
+              <br>
+              LINE公式アカウントにて、新商品に関する情報や<br>
+              お友達限定のお得な情報をお届けしていますので、<br>
+              ぜひお友達登録をしてお待ちください。
+            </p>
+            <a href="/" class="h4 l-button">LINE公式アカウントはこちら</a>
+          </div>
     </section>
 
 
@@ -237,8 +251,7 @@
 #available, #partnership, #link, 
 #gallery,
 #information, #contents {
-    margin-top: 8rem;
-    margin-bottom: 2rem;
+    margin-top: 12rem;
 }
 
 #top {margin-top: calc(2rem + 2.5rem + 1.5rem);}
@@ -295,6 +308,7 @@
 #collection .wrapper .container img {height: calc(70vw /3 *4);}
 
 
+#new .wrapper {display: block;}
 #new .wrapper .container {
     position: relative;
     margin-bottom: 3rem;
@@ -316,6 +330,8 @@
     position: relative;
 }
 #new h3 {margin: .5rem 0 3rem;}
+#new .line {margin-top: 6.5rem;}
+#new .line p {margin: .5rem 0 2.5rem;}
 
 #partnership .l-overlay {background-image: url("/image/001.jpg");}
 #partnership h1 {

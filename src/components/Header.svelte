@@ -17,7 +17,7 @@
     
         
         <div class="left">
-            <a href="/" class="">カート</a>
+            <a href="/" class="h6">カート</a>
         </div>
 
         <div class="center">
@@ -26,6 +26,7 @@
 
         <div class="right">
             <div
+            class="h6"
             class:clicked={clicked} 
             on:click="{() => clicked = !clicked}"
             on:click|preventDefault={clickHandler}

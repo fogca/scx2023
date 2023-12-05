@@ -31,25 +31,25 @@
           <h4 class="h6">詳細情報</h4>
           
           <input id="block-01" type="checkbox" class="toggle">
-          <label class="h3" for="block-01">味わい・香り</label>
+          <label class="h4" for="block-01">味わい・香り</label>
           <div class="content">
             <p>ダミーテキスト。このテキストセクションに、各タイトルに沿った概要やプロダクト紹介文を挿入する予定です。吾輩は猫である。名前はまだ無い。どこで生れたかとんと見当がつかぬ。何でも薄暗いじめじめした所でニャーニャー泣いていた事だけは記憶している。吾輩はここで始めて人間というものを見た。</p>
           </div>
     
           <input id="block-02" type="checkbox" class="toggle">
-          <label class="h3" for="block-02">商品詳細</label>
+          <label class="h4" for="block-02">商品詳細</label>
           <div class="content">
             <p>ダミーテキスト。このテキストセクションに、各タイトルに沿った概要やプロダクト紹介文を挿入する予定です。吾輩は猫である。名前はまだ無い。どこで生れたかとんと見当がつかぬ。何でも薄暗いじめじめした所でニャーニャー泣いていた事だけは記憶している。吾輩はここで始めて人間というものを見た。</p>
           </div>
     
           <input id="block-03" type="checkbox" class="toggle">
-          <label class="h3" for="block-03">熟成のこだわり</label>
+          <label class="h4" for="block-03">熟成のこだわり</label>
           <div class="content">
             <p>ダミーテキスト。このテキストセクションに、各タイトルに沿った概要やプロダクト紹介文を挿入する予定です。吾輩は猫である。名前はまだ無い。どこで生れたかとんと見当がつかぬ。何でも薄暗いじめじめした所でニャーニャー泣いていた事だけは記憶している。吾輩はここで始めて人間というものを見た。</p>
           </div>
     
           <input id="block-04" type="checkbox" class="toggle">
-          <label class="h3" for="block-04">蒸溜所について</label>
+          <label class="h4" for="block-04">蒸溜所について</label>
           <div class="content">
             <p>ダミーテキスト。このテキストセクションに、各タイトルに沿った概要やプロダクト紹介文を挿入する予定です。吾輩は猫である。名前はまだ無い。どこで生れたかとんと見当がつかぬ。何でも薄暗いじめじめした所でニャーニャー泣いていた事だけは記憶している。吾輩はここで始めて人間というものを見た。</p>
           </div>
@@ -59,7 +59,7 @@
     
       <div id="P_line">
         <div class="wrapper center">
-          <h1 class="h1">予想を上回る人気につき</h1>
+          <h1 class="h2">予想を上回る人気につき</h1>
           <p class="center">
             現在ジャパニーズダークスピリッツとして<br>
             販売する限定商品は大変好評を頂いており、<br>
