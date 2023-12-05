@@ -59,8 +59,8 @@ h1, .h1 {font-size: 2.0rem;}
 h2, .h2 {font-size: 1.8rem;}
 h3, .h3 {font-size: 1.6rem;}
 h4, .h4 {font-size: 1.4rem;}
-h5, .h5 {font-size: 1.25rem;}
-h6, .h6 {font-size: 1.15rem;}
+h5, .h5 {font-size: 1.3rem;}
+h6, .h6 {font-size: 1.2rem;}
 .h7 {font-size: .9rem;}
 
 .sp {display: block;}
@@ -68,8 +68,8 @@ h6, .h6 {font-size: 1.15rem;}
 
 p, .p {
     font-weight: 400;
-    line-height: 1.9;
-    font-size: 1.2rem;
+    line-height: 2.0;
+    font-size: 1.3rem;
     text-align: justify;
     word-wrap: break-word;
     hyphens: auto;
