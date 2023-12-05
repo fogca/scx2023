@@ -55,7 +55,7 @@ footer {
     padding: 8rem 0 4rem;
     background-color: #000;
     text-align: center;
-    background-image: url("../image/footer.jpg");
+    background-image: url("/image/footer.jpg");
     background-size: cover;
 }
 

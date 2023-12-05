@@ -11,7 +11,7 @@
     <section id="top">
         <div class="wrapper w100">
             <div class="container">
-                <img src="../image/001.jpg" alt="">
+                <img src="../image/gallery_1.png" alt="">
                 <a href="/product" class="l-button h5">詳しくみる</a>
             </div>
 
